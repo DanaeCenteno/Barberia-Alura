@@ -1,0 +1,60 @@
+
+.titulo-principal{
+    padding-left: 30px ;
+}
+
+/*
+h1{
+    text-align: center;
+    height: 150px;
+    border: 10px solid #000000;
+    padding: 20px; /*espacio interno
+    margin-left: 40px;/*espacio externo
+    
+}
+*/
+p{
+    text-align: center;
+}
+
+#mision{
+    font-size: 20px;
+}
+
+em strong{
+    color: red;
+}
+
+#banner{
+    width: 100%;
+  
+}
+
+.principal{
+    background-color: #CCCCCC;
+    padding: 20px;
+}
+
+.titulo-centralizado{
+    text-align: center;
+}
+
+.items{
+    font-style: italic;
+}
+
+ul{ 
+    display: inline-block;/*solo ocupe el espacio del contenido*/
+    vertical-align: top;/*lo alinea a la parte superior del div*/
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenDiferenciales{
+    width: 50%;
+}
+
+.diferenciales{
+    background-color: white;
+    padding: 30px;
+}
